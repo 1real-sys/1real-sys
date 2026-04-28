@@ -1,8 +1,8 @@
 👋 Fala aí, eu sou o Juliano
 
-💻 Desenvolvedor Backend focado em Java e Spring Boot
+💻 Desenvolvedor Backend Java e Spring Boot
 
-🚀 Stack principal:
+🚀 Stack:
 
 Java
 Spring Boot
@@ -13,7 +13,7 @@ TypeScript
 APIs REST
 Git & GitHub
 
-📚 Atualmente estudando:
+📚 Atualmente me especializando:
 
 Arquitetura de microserviços
 Segurança com Spring Security
