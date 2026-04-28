@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Fala aí, eu sou o Juliano
 
-<!--
-**1real-sys/1real-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend focado em Java e Spring Boot
 
-Here are some ideas to get you started:
+🚀 Stack principal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+Spring Boot
+MySQL
+Kafka
+Junit
+TypeScript
+APIs REST
+Git & GitHub
+
+📚 Atualmente estudando:
+
+Arquitetura de microserviços
+Segurança com Spring Security
+Docker
+
+🔥 Projetos em destaque:
+
+Api ContaFácil (simulação bancária) com
+Sistema backend com autenticação JWT
+Integração com banco de dados MySQL
+
+📫 Contato:
+
+LinkedIn: [(meu Linkedin)](https://www.linkedin.com/in/julianojlm/)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1real-sys&show_icons=true&theme=dark)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
