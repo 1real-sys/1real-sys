@@ -15,14 +15,14 @@ Git & GitHub
 
 📚 Atualmente me especializando:
 
-Arquitetura de microserviços
-Segurança com Spring Security
+Arquitetura de microserviços |
+Segurança com Spring Security | 
 Docker
 
 🔥 Projetos em destaque:
 
 Api ContaFácil (simulação bancária) com
-Sistema backend com autenticação JWT
+Sistema backend com autenticação JWT e 
 Integração com banco de dados MySQL
 
 📫 Contato:
@@ -30,7 +30,6 @@ Integração com banco de dados MySQL
 LinkedIn: [(meu Linkedin)](https://www.linkedin.com/in/julianojlm/)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1real-sys&show_icons=true&theme=dark)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
