@@ -16,7 +16,7 @@ ContaFácil API — Simulação bancária com Spring Boot e Angular, incluindo a
 
 📫 Contato:
 
-LinkedIn: [(meu Linkedin)](https://www.linkedin.com/in/julianojlm/)
+LinkedIn: [(Juliano)](https://www.linkedin.com/in/julianojlm/)
 
 
 
